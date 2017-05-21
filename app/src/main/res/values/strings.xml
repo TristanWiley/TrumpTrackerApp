@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Daily Trump</string>
+    <string name="title_home">Home</string>
+    <string name="title_twitter">Tweets</string>
+    <string name="title_notifications">Statements</string>
+    <string name="home_page_string">Dis is da home page</string>
+    <string name="hello_twitter">Oh herro der Twitter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="statements_text">Oh der are some statements</string>
+</resources>
